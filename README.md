@@ -1,27 +1,46 @@
-# React + TypeScript + Vite
+# Valorant Agent Cards
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### Este projeto de frontend consome a API do jogo Valorant para exibir informações dos agentes em cards personalizados. É construído com React, TypeScript, Vite, React Query e Axios.
 
-Currently, two official plugins are available:
+![Captura de Tela (27)](https://github.com/Coimbra777/Valorant-Cards/assets/103074944/e4d9e8d0-8fe3-441f-b33b-f9733360ff56)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Funcionalidades
 
-## Expanding the ESLint configuration
+- Exibe informações dos principais agentes do jogo Valorant.
+- Apresenta os agentes em cards personalizados com Material-UI.
+- Integração com React Query para buscar e gerenciar os dados da API.
+- Desenvolvido com React e TypeScript para uma experiência de desenvolvimento moderna.
+- Utiliza o Vite como ambiente de desenvolvimento rápido.
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+## Pré-requisitos
 
-- Configure the top-level `parserOptions` property like this:
+Antes de começar, certifique-se de que você tenha o Node.js instalado em seu sistema.
 
-```js
-   parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-   },
-```
+## Instalação
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+1. Clone o repositório:
+
+   ```bash
+   git clone https://github.com/seu-usuario/seu-repositorio.git
+   cd seu-repositorio
+
+ 2. Instale as dependências:
+
+     ```bash
+      npm install
+
+  3. Inicie o servidor de desenvolvimento:
+
+     ```bash
+      npm run dev
+
+# Uso
+<p> Abra seu navegador e acesse http://localhost:3000 para ver a aplicação em execução.</p>
+
+# Contribuição
+ <p>Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull requests.</p> 
+
+# Licença
+<p>Este projeto é distribuído sob a licença MIT. Veja o arquivo LICENSE para obter mais detalhes.</p>
+
+
