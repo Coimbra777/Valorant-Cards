@@ -1,6 +1,7 @@
-# Valorant Agent Cards
+# Valorant Agent Cards - Desafio para vaga de Frontend
 
-### Este projeto de frontend consome a API do jogo Valorant para exibir informações dos agentes em cards personalizados. É construído com React, TypeScript, Vite, React Query e Axios.
+### O desafio consisite em criar uma SPA (Single Page Application) de layout livre, responsivo e agradável ao usuário, exibindo os dados de alguma API Rest. <br> Este projeto de frontend consome a API do jogo Valorant para exibir informações dos agentes em cards personalizados. É construído com React, TypeScript, Vite, React Query e Axios. 
+<br>
 
 ![Captura de Tela (27)](https://github.com/Coimbra777/Valorant-Cards/assets/103074944/e4d9e8d0-8fe3-441f-b33b-f9733360ff56)
 
