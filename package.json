@@ -23,7 +23,8 @@
     "react-query": "^3.39.3",
     "react-responsive-carousel": "^3.2.23",
     "react-spring": "^9.7.3",
-    "react-swipeable-views-utils": "^0.14.0"
+    "react-swipeable-views-utils": "^0.14.0",
+    "swiper": "^11.0.3"
   },
   "devDependencies": {
     "@types/istanbul-lib-coverage": "^2.0.5",
